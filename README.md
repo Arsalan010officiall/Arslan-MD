@@ -42,7 +42,7 @@ Use it in your favorite language like PHP, Python, C# and others. as long as you
 
 ## Arslan group support on Whatsapp-Group
 
-<a target="_blank" href="https://chat.whatsapp.com/HJwsNbmsbKn5t6ME78zvMS&text=I%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp-Group" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp-Group_logo.svg/2000px-WhatsApp-Group_logo.svg.png"></a>
+<a target="_blank" href="https://chat.whatsapp.com/HJwsNbmsbKn5t6ME78zvMS&text=I%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
 ## Meet the Superchats
 
@@ -62,7 +62,7 @@ With Superchats you can build service bots, multiservice chats or any system tha
 
 The value of the license is $50 monthly dollars, to acquire contact in whatsapp by clicking on the image below !!
 
-<a target="_blank" href="https://web.whatsapp.com/send?phone=923237045919&text=I%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
+<a target="_blank" href="https://wa.me/+923237045919&text=I%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
 ## 🕷🕷 Functions Arslan🕷🕷
 
