@@ -34,7 +34,7 @@ Use it in your favorite language like PHP, Python, C# and others. as long as you
 
 ## Get our officiall API Arslan ! Contact us!
 
-<a target="_blank" href="https://web.whatsapp.com/send?phone=923237045919&text=I%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
+<a target="_blank" href="https://wa.me/+923237045919&text=I%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
 ## Arslan group support on Telegram
 
