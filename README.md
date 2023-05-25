@@ -1,4 +1,4 @@
-# 🕷Arslan-MD Bot🕸
+# 🅰️Arslan-MD Bot🇵🇰
 
 [![npm version](https://img.shields.io/npm/v/Arslan-MD-bot.svg?color=green)](https://www.npmjs.com/package/Arslan-MD-bot)
 ![node](https://img.shields.io/node/v/Arslan-MD-bot)
@@ -40,9 +40,9 @@ Use it in your favorite language like PHP, Python, C# and others. as long as you
 
 <a target="_blank" href="https://t.me/joinchat/" target="_blank"><img title="Telegram" height="100" width="375" src="https://user-images.githubusercontent.com/66584466/117182238-7d1d8980-adac-11eb-9a70-e32f90c3d4e5.png"></a>
 
-## Arslan group support on Discord
+## Arslan group support on Whatsapp-Group
 
-<a target="_blank" href="https://discord.gg/" target="_blank"><img title="Discord" height="110" width="375" src="https://s2.glbimg.com/GUbCgnBxJERAmuaYcrjBzTXD5ws=/0x0:800x272/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/d/N/zJs579QOGxKVRxfPILCA/discord-app.png"></a>
+<a target="_blank" href="https://chat.whatsapp.com/HJwsNbmsbKn5t6ME78zvMS&text=I%20want%20access%20to%20API%20Venom" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp-Group_logo.svg.png"></a>
 
 ## Meet the Superchats
 
