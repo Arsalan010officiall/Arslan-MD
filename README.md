@@ -47,7 +47,7 @@ Use it in your favorite language like PHP, Python, C# and others. as long as you
 ## Arslan group support on Telegram
 
 <p align="center">
-  <a target="_blank" href="https://t.me/joinchat/" target="_blank"><img title="Telegram" height="100" width="375" src="https://user-images.githubusercontent.com/66584466/117182238-7d1d8980-adac-11eb-9a70-e32f90c3d4e5.png"></a>
+  <a target="_blank" href="https://t.me/Arslan010officially/joinchat/" target="_blank"><img title="Telegram" height="100" width="375" src="https://user-images.githubusercontent.com/66584466/117182238-7d1d8980-adac-11eb-9a70-e32f90c3d4e5.png"></a>
 
 ## Arslan group support on Whatsapp-Group
 
@@ -72,10 +72,12 @@ With Superchats you can build service bots, multiservice chats or any system tha
 
 The value of the license is $50 monthly dollars, to acquire contact in whatsapp by clicking on the image below !!
 
-<a target="_blank" href="https://wa.me/+923237045919&text=I%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
+<p align="center">
+  <a target="_blank" href="https://wa.me/+923237045919&text=I%20want%20to%20buy%201%20license" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
 ## 🕷🕷 Functions Arslan🕷🕷
 
+<p align="center">
 |                                                               |     |
 | ------------------------------------------------------------- | --- |
 | 🚻 Automatic QR Refresh                                       | ✔   |
