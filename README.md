@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
-  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=OWNER+TERA+BAAP+;Arslan-MD-BOT;GHOOR+NAA+BOT+CHALA+LEY;OR+BOT+SE+PANGE+NAA+LENA+ (+923237045919)+:v+%F0%9F%91%8B" height="70px"
+  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=OWNER+TERA+BAAP+;Arslan-MD-BOT+ (+923237045919)+;GHOOR+NAA+BOT+CHALA+LEY;OR+BOT+SE+PANGE+NAA+LENA+:v+%F0%9F%91%8B" height="70px"
 </p>
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
