@@ -130,4 +130,4 @@ The value of the license is $50 monthly dollars, to acquire contact in whatsapp 
     <br>
 <a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
 ***
-<a href="https://chat.whatsapp.com/HJwsNbmsbKn5t6ME78zvMS"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
