@@ -1,5 +1,13 @@
 # 🅰️Arslan-MD Bot🇵🇰
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'm+Arslan-MD-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Arslan_Officiall" alt="Typing SVG" /></a>
+
+
+  <p align="center">
+<a href="https://github.com/Arsalan010officiall/Arslan-MD"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Arslan&description=Hello,%20I%20am%20Queen%20MD.%20I%20am%20First%20Multi-device%20Whatsapp%20%Sinhala20Bot,%20You%20Can%20Deploy%20Me%20%20%20enjoy%20Futures&image=https://i.ibb.co/jZkzpw2/Queen.jpg&backgroundColor=%23ecf0f1&instagram=@Arslan010officiall&github=Arslan_Officiall&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
+</p>
+  
 [![npm version](https://img.shields.io/npm/v/Arslan-MD-bot.svg?color=green)](https://www.npmjs.com/package/Arslan-MD-bot)
 ![node](https://img.shields.io/node/v/Arslan-MD-bot)
 [![Downloads](https://img.shields.io/npm/dm/Arslan-MD-bot.svg)](https://www.npmjs.com/package/Arslan-MD-bot)
